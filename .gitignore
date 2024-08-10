@@ -1,0 +1,6 @@
+*.ini
+*.pdb
+*.exp
+*.lib
+_pull.bat
+_push.bat
